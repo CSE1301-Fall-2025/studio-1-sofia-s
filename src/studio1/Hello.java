@@ -11,7 +11,7 @@ public class Hello {
 		String mood = in.nextLine();
 		
 		System.out.println("Hello and welcome to CSE 131!");
-		System.out.println("You seem to be feeling " + mood);
+		System.out.println("You seems to be feeling " + mood);
 	}
 
 }
